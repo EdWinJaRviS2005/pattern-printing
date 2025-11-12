@@ -1,5 +1,21 @@
 INSTRUCTIONS
 
+## What You'll Learn
+
+This assignment is designed to teach you multiple skills beyond just coding patterns:
+
+- **Pattern Logic & Problem Solving**: Implement 15 different pattern-printing problems ranging from basic to advanced (nested loops, symmetry, number sequences).
+- **C++ Programming**: Practice writing clean, readable C++ code with proper formatting and comments.
+- **Git & GitHub Workflow**: Learn how to fork a repository, create branches, commit changes, and push to your fork.
+- **Pull Requests (PRs)**: Understand how to open a PR, write clear descriptions, and respond to feedback.
+- **Code Review**: After your PR is merged, you'll review someone else's code — learning to read, evaluate, and provide constructive feedback.
+- **Collaboration**: Work in a collaborative environment where each contributor helps the next, building a chain of responsibility.
+- **Open Source Contribution**: Experience the real-world workflow used in open-source projects worldwide.
+
+This is a hands-on way to build both your coding and collaboration skills!
+
+---
+
 ## Step 1: Fork the Repository
 
 1. Go to the repository: `https://github.com/a9irudhh/pattern-printing`
@@ -80,11 +96,18 @@ INSTRUCTIONS
 5. In the PR description, list which pattern numbers you implemented and any notes (optional).
 6. Click **Create pull request**.
 
-## Step 8: Review and Merge
+## Step 8: Review and Merge Process
 
-   - Others will review your PR and may request changes. Please respond to review comments and push fixes to the same branch.
-   - Once approved, a maintainer will merge the PR into the main repository.
+   - **First PR**: The repository owner (`a9irudhh`) will review and merge the first Pull Request.
+   - **Subsequent PRs**: After your PR is merged, **you become responsible** for reviewing and merging the next open PR in the queue.
+   - If you receive review comments on your PR, please respond and push fixes to the same branch.
+   - This creates a chain of responsibility where each merged contributor helps the next person.
+
+### Important Notes:
+- Once your PR is merged, check for the next open PR and review it promptly.
+- Provide constructive feedback on code quality, correctness, and adherence to these instructions.
+- Only merge after verifying the solution is correct and follows the guidelines.
 
 ---
 
-Fork the repo, create your directory, add C++ solutions for the patterns from `README.md`, and open a PR for review and merge.
+Fork the repo, create your directory, add C++ solutions for the patterns from `README.md`, open a PR, and after it's merged, review and merge the next PR in line!
