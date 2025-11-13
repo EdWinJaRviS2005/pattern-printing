@@ -1,4 +1,3 @@
-//printing pascal triangle
 #include <iostream>
 using namespace std;
 
